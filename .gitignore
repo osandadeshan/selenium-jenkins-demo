@@ -1,3 +1,5 @@
 /.idea
 /target
 /maxsoft-webdriver-manager-demo.iml
+/test-output
+/*.iml
